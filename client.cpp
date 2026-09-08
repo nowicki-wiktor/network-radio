@@ -1,8 +1,3 @@
-/* WIKTOR NOWICKI nr indeksu 469483
-Drugie zadanie zaliczeniowe z SiK, MIMUW 2025/26
-Klient radia internetowego
-*/
-
 #include <iostream>
 #include <string>
 #include <vector>
